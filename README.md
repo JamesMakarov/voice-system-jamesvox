@@ -212,8 +212,6 @@ Quando configurada, a aplicação pode:
 - baixar amostras;
 - gerar arquivos de áudio através da API.
 
-A chave da API não deve ser adicionada ao repositório.
-
 ---
 
 ## Modo bilíngue
