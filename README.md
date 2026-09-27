@@ -1,5 +1,7 @@
 # JamesVox
 
+[![Python tests](https://github.com/JamesMakarov/voice-system-jamesvox/actions/workflows/ci.yml/badge.svg)](https://github.com/JamesMakarov/voice-system-jamesvox/actions/workflows/ci.yml)
+
 Sistema desktop para automação de sinais, avisos por voz e reprodução de áudio em ambientes escolares.
 
 O JamesVox foi desenvolvido em Python com uma interface gráfica baseada em CustomTkinter. A aplicação permite programar horários, tocar sinais e playlists, gerar avisos falados e manter uma rotina automática de reprodução ao longo do dia.
