@@ -126,8 +126,8 @@ Conteúdo da ajuda integrada ao programa.
 Clone o repositório e entre na pasta:
 
 ```bash
-git clone <URL-DO-SEU-REPOSITORIO>
-cd JamesVox
+git clone https://github.com/JamesMakarov/voice-system-jamesvox.git
+cd voice-system-jamesvox
 ```
 
 Crie um ambiente virtual:
