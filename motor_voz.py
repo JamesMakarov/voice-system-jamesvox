@@ -258,7 +258,7 @@ def tempo_por_extenso_en(hora_str):
     if h_en == 0:
         h_en = 12
 
-    period = "A.M." if h < 12 else "P.M."
+    period = "A.M" if h < 12 else "P.M"
 
     numeros_en = {
         1: "one",
